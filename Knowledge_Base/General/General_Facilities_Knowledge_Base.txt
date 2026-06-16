@@ -1,0 +1,527 @@
+================================================================
+HEXAWARE TECHNOLOGIES — GENERAL & FACILITIES
+KNOWLEDGE BASE & POLICY GUIDE 2025
+Version 2.0 | Last Updated: June 2025
+================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: FACILITIES HELP DESK & SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1 SUPPORT CHANNELS
+─────────────────────
+Facilities Portal   : https://facilities.hexaware.com
+General Queries     : facilities@hexaware.com
+Emergency Helpline  : 1800-XXX-XXXX (24x7 for security/safety emergencies)
+Walk-in             : Admin Desk, Ground Floor, Building A
+Working Hours       : Monday – Friday, 8:00 AM – 8:00 PM
+                      Saturday, 9:00 AM – 2:00 PM (limited services)
+
+1.2 SERVICE LEVEL TARGETS
+───────────────────────────
+Request Type                    Resolution Time
+────────────────────────────────────────────────
+AC / temperature complaint      2 hours
+Electrical issue                2 hours
+Plumbing / washroom issue       4 hours
+Housekeeping request            1 hour
+Furniture / workstation issue   1 business day
+Meeting room setup              4 hours (request 1 day in advance)
+Security / access card issue    Same day
+Pest control                    2 business days
+General maintenance             2–3 business days
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: OFFICE ACCESS & ID CARD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 ID CARD & ACCESS CARD
+───────────────────────────
+  • Company ID card issued on Day 1 (collect from Admin Desk)
+  • ID card must be worn visibly at all times inside office premises
+  • Access card grants entry to building and floor (role-based access)
+  • Working hours access   : All employees (8:00 AM – 10:00 PM)
+  • After-hours access     : Manager approval required (submit via Facilities Portal)
+  • Weekend access         : Prior approval from Department Head + Admin
+
+2.2 LOST OR DAMAGED ID / ACCESS CARD
+───────────────────────────────────────
+  1. Report immediately to Admin Desk (Ground Floor) or facilities@hexaware.com
+  2. Temporary access card issued same day (valid 3 days)
+  3. Replacement card processed within 2 working days
+  4. Charges:
+     - First replacement : Free
+     - Second replacement: INR 200
+     - Third and beyond  : INR 500 + HR notification
+
+2.3 VISITOR MANAGEMENT
+────────────────────────
+  • All visitors must be pre-registered by employee host
+  • Register visitor: Facilities Portal → Visitor Management → Add Visitor
+  • Visitor receives email with QR code for entry
+  • Visitors must show valid government photo ID at reception
+  • Visitor badge issued at reception — must be returned on exit
+  • Visitors not allowed beyond designated visitor areas without escort
+  • Visitor access after 7:00 PM requires Senior Manager approval
+
+2.4 CONTRACTOR & VENDOR ACCESS
+────────────────────────────────
+  • All contractors must be pre-approved by Facilities + IT + HR
+  • Escorted by Hexaware employee at all times
+  • Contractor badge issued daily (not overnight)
+  • Background verification required for all long-term contractors
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CAFETERIA & FOOD SERVICES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 CAFETERIA TIMINGS
+───────────────────────
+  Breakfast          : 8:00 AM – 10:00 AM
+  Morning Snacks     : 10:30 AM – 11:30 AM
+  Lunch              : 12:30 PM – 2:30 PM
+  Evening Snacks     : 4:30 PM – 5:30 PM
+  Dinner             : 7:30 PM – 9:30 PM (for employees working late)
+
+  Location           : Ground Floor, Building A (main cafeteria)
+                       Floor 5 pantry (light snacks and beverages only)
+
+3.2 MEAL SUBSIDY
+──────────────────
+  • Subsidized meals available for all employees
+  • Meal allowance of INR 1,500/month auto-credited with salary
+  • Cafeteria meal prices are subsidized (50–60% below market rate)
+  • Payment: Company cafeteria card (loaded with monthly allowance)
+    or UPI / cash accepted
+  • How to get cafeteria card: Admin Desk → Cafeteria Card Request
+
+3.3 MENU & DIETARY OPTIONS
+────────────────────────────
+  • Daily rotating menu — posted on intranet by 9:00 AM each day
+  • Vegetarian and non-vegetarian options available daily
+  • Vegan options available on request (inform cafeteria staff)
+  • Jain food available on request (24 hours advance notice)
+  • Allergen information available at serving counter
+  • Special dietary needs: email facilities@hexaware.com
+
+3.4 CAFETERIA RULES
+─────────────────────
+  • Keep the cafeteria clean — dispose waste in designated bins
+  • Do not waste food
+  • Outside food delivery (Swiggy/Zomato) allowed at reception only
+    (not inside cafeteria or workfloor)
+  • Formal attire not required in cafeteria
+  • No loud music or disruptive behavior
+  • Outside guests in cafeteria require prior approval from Admin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: TRANSPORT & COMMUTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 COMPANY TRANSPORT (BUS / SHUTTLE)
+───────────────────────────────────────
+  • Company-operated shuttle available for eligible employees
+  • Routes cover major residential areas near each office location
+  • Route details and timings: Facilities Portal → Transport → My Route
+  • Registration required: Facilities Portal → Transport → Register
+
+  Pickup timings (morning)  : 7:30 AM – 9:00 AM (location-dependent)
+  Drop timings (evening)    : 6:30 PM – 8:00 PM
+  Night shift drop          : Available for employees working past 9:00 PM
+  Weekend shuttle           : Limited routes — check portal for schedule
+
+4.2 TRANSPORT ELIGIBILITY
+───────────────────────────
+  • All confirmed employees are eligible for company transport
+  • Probationary employees eligible from Day 1
+  • Transport is free of charge for all registered employees
+  • Employees must register a minimum 3 days before first use
+
+4.3 CAB POLICY (FOR OFFICIAL LATE WORKING)
+────────────────────────────────────────────
+  • Employees working past 9:30 PM entitled to company-arranged cab
+  • Female employees: entitlement from 7:00 PM onwards
+  • Request cab: Facilities Portal → Transport → Cab Request
+  • Submit by 8:00 PM for same-night use
+  • Direct to registered home address only (no detours)
+  • Pre-approved vendor cabs only (Ola Corporate, Meru)
+  • Personal cab bookings reimbursed only if company cab unavailable
+    (attach receipt and notify facilities same night)
+
+4.4 PARKING
+────────────
+  Office Parking (4-wheelers):
+  • Parking slots allocated on first-come, first-served basis
+  • Registration required: Facilities Portal → Parking → Register Vehicle
+  • Monthly parking sticker issued on registration
+  • Unregistered vehicles not allowed in basement parking
+  • No overnight parking without special permission from Admin
+
+  Two-wheeler Parking:
+  • Dedicated two-wheeler zone — Ground Floor entrance, Wing B
+  • No registration required — parking sticker issued on Day 1
+  • Helmets must be worn on premises (company rule)
+
+  Visitor Parking:
+  • Marked visitor bays at main entrance (max 4 hours)
+  • Visitors must register vehicle at reception
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: MEETING ROOMS & CONFERENCE FACILITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 MEETING ROOM BOOKING
+──────────────────────────
+  • All meeting rooms must be booked in advance
+  • Booking: Microsoft Outlook → Calendar → New Meeting → Add Room
+    Or: Facilities Portal → Meeting Rooms → Book Room
+  • Rooms available: 8:00 AM – 10:00 PM (Monday – Saturday)
+  • Maximum booking duration: 4 hours per slot (extendable if available)
+  • Book minimum 30 minutes in advance
+  • Cancel booking if not needed (to free up room for others)
+
+5.2 MEETING ROOM TYPES
+────────────────────────
+  Room Type           Capacity    Floor    Facilities
+  ───────────────────────────────────────────────────────────────
+  Huddle Rooms        2–4         All      TV screen, whiteboard
+  Small Meeting Room  6–8         2, 4, 6  Projector, video conf
+  Large Meeting Room  10–15       3, 7     Dual screen, video conf
+  Board Room          20–30       10       Full AV, video conf, catering
+  Training Room       30–50       1        Projector, flip charts, PA system
+  Town Hall / Auditorium 200+     Ground   Full AV, stage, recording
+
+5.3 MEETING ROOM RULES
+────────────────────────
+  • Vacate room 5 minutes before booking ends
+  • Do not extend booking without releasing current slot first
+  • Leave room clean — put chairs back, erase whiteboard
+  • Report AV issues to Facilities immediately
+  • No food allowed in Board Room (beverages only)
+  • External visitors in meeting rooms must be registered
+
+5.4 VIDEO CONFERENCING SETUP
+──────────────────────────────
+  • All large meeting rooms equipped with:
+    - Microsoft Teams Rooms
+    - Logitech Rally camera + speaker bar
+    - Dual display screens
+  • For support with video conferencing setup: IT Help Desk
+  • Test AV equipment 15 minutes before important meetings
+
+5.5 CATERING FOR MEETINGS
+───────────────────────────
+  • Catering available for meetings with 10+ participants
+  • Request via Facilities Portal → Catering Request
+  • Minimum 24 hours advance notice required
+  • Options: tea/coffee service, snack trays, lunch boxes
+  • Client meetings: Premium catering available (manager approval)
+  • Budget: Standard catering charged to department cost center
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: WORKSTATION & SEATING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1 SEATING ALLOCATION
+────────────────────────
+  • Fixed seating allocated by Department Head and Admin
+  • New joiners: Seating arranged before Day 1 (HR informs Admin)
+  • Hot desking available on Floors 3 and 6 for WFH employees
+    coming to office on non-regular days
+  • Seating change request: Facilities Portal → Seating → Request Change
+    (requires current manager + new floor manager approval)
+
+6.2 WORKSTATION SETUP STANDARDS
+──────────────────────────────────
+  Each workstation includes:
+  ✓ Height-adjustable desk (on request)
+  ✓ Ergonomic chair
+  ✓ Monitor (1 standard / 2 for developer roles)
+  ✓ Docking station (for laptop users)
+  ✓ Desk lamp (on request)
+  ✓ Pedestal/drawer unit with lock
+
+  Additional items available on request:
+  • Keyboard wrist rest
+  • Monitor stand / riser
+  • Footrest
+  • Anti-glare screen protector
+  Request via: Facilities Portal → Ergonomics Request
+
+6.3 CLEAN DESK POLICY
+───────────────────────
+  • All employees must maintain a clean, organized workstation
+  • No confidential documents left on desk overnight
+  • Laptop must be locked when away from desk
+  • Personal items limited to one small photo frame and one plant
+  • Monthly clean desk audit conducted by Facilities team
+  • Repeated violations reported to HR
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: HEALTH, SAFETY & EMERGENCY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7.1 FIRST AID
+──────────────
+  • First aid kits available on every floor (near fire exit)
+  • Trained first aiders present in each building during working hours
+  • First aider list: posted on every floor notice board
+  • Medical room: Ground Floor, Building A (nurse available 9 AM – 6 PM)
+  • Ambulance on call: 1800-XXX-XXXX (Facilities Emergency Line)
+
+7.2 FIRE SAFETY
+────────────────
+  • Fire exits marked on every floor — know your nearest exit
+  • Fire drills conducted twice a year (all employees must participate)
+  • Do not block fire exits or emergency corridors
+  • Fire extinguishers on every floor — do not tamper with them
+  • In case of fire:
+    1. Activate nearest fire alarm
+    2. Call security: 1800-XXX-XXXX
+    3. Evacuate using nearest staircase (do NOT use lift)
+    4. Assemble at designated muster point (parking lot, Gate 2)
+    5. Do not re-enter until all-clear given by Fire Warden
+
+7.3 EMERGENCY EVACUATION
+──────────────────────────
+  Muster Point       : Main parking area, Gate 2
+  Floor Wardens      : Posted on each floor notice board
+  Emergency numbers  :
+    Security Control Room : Ext. 100
+    Medical Emergency     : Ext. 101
+    Fire                  : Ext. 102
+    Police                : 100
+    Ambulance             : 108
+
+7.4 OFFICE SAFETY RULES
+─────────────────────────
+  • No smoking anywhere inside or within 10 meters of building
+  • Smoking zone: designated area near Gate 2 exit only
+  • No cooking or use of personal electrical appliances at desk
+  • Report any suspicious person or package to security immediately
+  • Wet floor / hazard: report to Facilities immediately
+  • Electrical issues: do not attempt self-repair — call IT or Facilities
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: GYM & WELLNESS FACILITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8.1 OFFICE GYM
+───────────────
+  Location           : Floor 2, Building B
+  Timings            : 6:00 AM – 10:00 PM (Monday – Saturday)
+                       7:00 AM – 2:00 PM (Sunday)
+  Eligibility        : All confirmed employees (free of charge)
+  Registration       : Facilities Portal → Gym → Register
+  Trainer            : Available Monday, Wednesday, Friday (7 AM – 9 AM)
+
+  Equipment available:
+  • Treadmills, ellipticals, stationary bikes
+  • Free weights and weight machines
+  • Yoga / stretching area
+  • Shower and locker facilities
+
+  Rules:
+  • Carry a personal towel at all times
+  • Wipe down equipment after use
+  • Proper sports attire mandatory
+  • No phone calls while using equipment
+
+8.2 WELLNESS PROGRAMS
+───────────────────────
+  • Weekly yoga sessions: Tuesday & Thursday, 7:30 AM – 8:30 AM (Terrace, Bldg A)
+  • Monthly health talks by visiting doctors / nutritionists
+  • Annual health checkup (arranged by HR — see HR Knowledge Base)
+  • Mental health resources: Employee Assistance Program (EAP)
+    Helpline: 1800-XXX-XXXX (24x7, confidential)
+  • Step challenge and fitness competitions (quarterly)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 9: STATIONERY & OFFICE SUPPLIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9.1 REQUESTING STATIONERY
+───────────────────────────
+  • Standard stationery available from Admin Desk (Ground Floor)
+  • Items available: pens, notepads, files, folders, sticky notes,
+    stapler, tape, scissors, whiteboard markers, printer paper
+  • Request form: Facilities Portal → Stationery → Request
+  • Bulk stationery for projects/events: 2 days advance notice required
+  • Personal stationery not reimbursable through company
+
+9.2 PRINTING & PHOTOCOPYING
+─────────────────────────────
+  • Printers available on every floor
+  • Color printing: requires manager approval (cost center charged)
+  • Black & white printing: standard — no approval needed
+  • Print quota: 100 pages/month B&W, 20 pages/month color (per employee)
+  • Excess printing flagged and reported to Department Head monthly
+  • Large format printing (banners, posters): contact Admin Desk
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 10: EVENTS & CELEBRATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10.1 OFFICIAL COMPANY EVENTS
+──────────────────────────────
+  • Annual Day / Company Anniversary celebration
+  • Quarterly Town Halls (CEO addresses all employees)
+  • Festival celebrations: Diwali, Christmas, New Year, Holi, Onam etc.
+  • Sports Day (annual)
+  • Rewards & Recognition ceremony (quarterly)
+
+10.2 TEAM EVENTS & OFFSITES
+─────────────────────────────
+  • Teams encouraged to organize quarterly team events
+  • Budget: INR 500–1,000 per person per quarter (manager approval)
+  • Offsite team outings: prior approval from Department Head
+  • Event planning support: contact facilities@hexaware.com
+  • Venue booking (external): Finance approval required
+
+10.3 BIRTHDAY & WORK ANNIVERSARY CELEBRATIONS
+───────────────────────────────────────────────
+  • Birthday wishes sent via HR Portal automated email to team
+  • Work anniversaries recognized on company intranet
+  • 5-year, 10-year milestones: formal recognition at Town Hall
+  • Teams may organize small desk celebrations (no disruption to work)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 11: DRESS CODE & CONDUCT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11.1 DRESS CODE
+────────────────
+  Monday – Thursday  : Business casual
+                       (collared shirts, formal trousers, formal shoes)
+  Friday             : Smart casual (Casual Friday)
+                       (clean jeans allowed, no shorts/slippers)
+  Client Visit Days  : Formal business attire
+                       (suit / blazer recommended for senior roles)
+  Events / Town Hall : Business casual minimum
+
+  Not permitted at any time:
+  ✗ Torn or distressed clothing
+  ✗ Sleeveless tops (for any gender)
+  ✗ Flip-flops or slippers
+  ✗ Overly casual sportswear
+  ✗ Offensive slogans or graphics on clothing
+
+11.2 GENERAL CONDUCT
+──────────────────────
+  • Respect all colleagues, visitors, and vendors
+  • Keep voice levels low in open workspaces
+  • Use phone booths or meeting rooms for long calls
+  • Headphones encouraged in open workspaces
+  • Do not play music through speakers at workstations
+  • Maintain professional conduct on all company premises
+    including cafeteria, gym, and transport
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 12: TOP 20 GENERAL & FACILITIES FAQs
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q1.  I lost my access card. What do I do?
+A:   Report to Admin Desk immediately. Temporary card issued same day.
+     Replacement card ready in 2 working days. First replacement is free.
+
+Q2.  How do I register for company transport?
+A:   Facilities Portal → Transport → Register.
+     Register at least 3 days before first use.
+
+Q3.  I am working late. How do I get a cab home?
+A:   Facilities Portal → Transport → Cab Request.
+     Submit by 8:00 PM. Female employees eligible from 7:00 PM onwards.
+
+Q4.  How do I book a meeting room?
+A:   Microsoft Outlook → New Meeting → Add Room.
+     Or Facilities Portal → Meeting Rooms → Book Room.
+     Book minimum 30 minutes in advance.
+
+Q5.  The AC in my area is too cold/hot. Who do I contact?
+A:   Log a ticket on Facilities Portal or email facilities@hexaware.com.
+     Response within 2 hours during working hours.
+
+Q6.  What are the cafeteria timings?
+A:   Breakfast 8–10 AM, Lunch 12:30–2:30 PM, Evening snacks 4:30–5:30 PM,
+     Dinner 7:30–9:30 PM (for late workers).
+
+Q7.  Can I get food delivered to the office?
+A:   Yes, Swiggy/Zomato deliveries accepted at reception only.
+     Not allowed directly to workfloor or cafeteria.
+
+Q8.  How do I register my vehicle for parking?
+A:   Facilities Portal → Parking → Register Vehicle.
+     Monthly parking sticker issued upon registration.
+
+Q9.  How do I register for the office gym?
+A:   Facilities Portal → Gym → Register.
+     Free for all confirmed employees. Timings: 6 AM – 10 PM.
+
+Q10. I need stationery for my project. How do I request it?
+A:   Facilities Portal → Stationery → Request.
+     For bulk orders give 2 days advance notice.
+
+Q11. How do I invite a visitor to the office?
+A:   Facilities Portal → Visitor Management → Add Visitor.
+     Visitor gets QR code on email. They must show government photo ID.
+
+Q12. Where is the nearest fire exit from my floor?
+A:   Fire exits are clearly marked on every floor.
+     Check the emergency evacuation map on your floor notice board.
+
+Q13. The washroom on my floor has an issue. Who do I report to?
+A:   Log on Facilities Portal or call Facilities Desk.
+     Resolved within 4 hours during working hours.
+
+Q14. Can I bring my personal laptop to office?
+A:   Yes for personal use only. Company data must not be accessed
+     or stored on personal devices. Must connect to HEXAWARE_GUEST
+     Wi-Fi only (not corporate network).
+
+Q15. How do I request a height-adjustable desk or ergonomic equipment?
+A:   Facilities Portal → Ergonomics Request.
+     Available on request — medical need prioritized.
+
+Q16. Is there a smoking area in the office?
+A:   Yes, designated smoking zone near Gate 2 exit only.
+     Smoking anywhere else on premises is strictly prohibited.
+
+Q17. I want to organize a team event. How do I get support?
+A:   Email facilities@hexaware.com with team size, date, and type of event.
+     Budget up to INR 1,000 per person per quarter with manager approval.
+
+Q18. The printer on my floor is not working. Who do I contact?
+A:   Raise an IT ticket on IT Portal for printer issues.
+     For paper/toner refill contact Facilities Desk.
+
+Q19. Are there lockers available for employees?
+A:   Yes, lockers available near gym area and on select floors.
+     Request via Facilities Portal → Locker Request.
+     Lockers are shared (gym lockers) or personal (floor lockers, limited).
+
+Q20. Who do I call in case of a medical emergency in the office?
+A:   Call Ext. 101 (Medical Emergency) or 1800-XXX-XXXX immediately.
+     First aiders are present on every floor during working hours.
+     Medical room is on Ground Floor, Building A.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 13: FACILITIES CONTACT DIRECTORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Facilities Helpdesk         : facilities@hexaware.com
+Admin Desk (Walk-in)        : Ground Floor, Building A
+Security Control Room       : Ext. 100
+Medical Emergency           : Ext. 101
+Fire Emergency              : Ext. 102
+Transport Desk              : transport@hexaware.com
+Cafeteria Manager           : cafeteria@hexaware.com
+Facilities Portal           : https://facilities.hexaware.com
+Emergency Helpline (24x7)   : 1800-XXX-XXXX
+
+Working Hours               : Monday – Friday, 8:00 AM – 8:00 PM
+                              Saturday, 9:00 AM – 2:00 PM
+
+================================================================
+END OF GENERAL & FACILITIES KNOWLEDGE BASE DOCUMENT
+Hexaware Technologies | Facilities Department | Version 2.0 | June 2025
+================================================================
