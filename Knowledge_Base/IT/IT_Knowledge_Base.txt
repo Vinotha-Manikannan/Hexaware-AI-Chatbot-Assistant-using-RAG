@@ -1,0 +1,333 @@
+================================================================
+HEXAWARE TECHNOLOGIES — IT DEPARTMENT
+KNOWLEDGE BASE & SUPPORT GUIDE 2025
+================================================================
+
+SECTION 1: IT HELP DESK & SUPPORT CHANNELS
+
+IT Help Desk Portal  : https://itsm.hexaware.com
+Email                : it-support@hexaware.com
+Phone (24/7)         : 1800-XXX-XXXX (Toll Free)
+Emergency (P1/P2)    : WhatsApp group "IT Critical Alert"
+Walk-in              : IT Help Desk, Ground Floor, Building A (09:00–18:00)
+Chat Support         : Available on intranet portal (Mon–Sat, 08:00–20:00)
+
+SERVICE LEVEL TARGETS
+Priority 1 — Critical : 15-minute response / 2-hour resolution
+Priority 2 — High     : 30-minute response / 4-hour resolution
+Priority 3 — Medium   : 2-hour response / 1 business day resolution
+Priority 4 — Low      : 4-hour response / 2 business days resolution
+
+HOW TO RAISE AN IT SUPPORT TICKET
+  1. Go to IT Help Desk Portal: https://itsm.hexaware.com
+  2. Click "New Ticket"
+  3. Select category: Hardware / Software / Network / Access / Other
+  4. Describe the issue clearly with screenshots if possible
+  5. Submit — ticket ID will be emailed to you immediately
+  6. Track ticket status on portal anytime
+
+================================================================
+SECTION 2: LAPTOP & HARDWARE SUPPORT
+================================================================
+
+IF YOUR LAPTOP IS NOT WORKING
+  Step 1 : Restart the laptop first (resolves 60% of issues)
+  Step 2 : If issue persists, raise an IT ticket on portal
+  Step 3 : IT team contacts you within 2 hours
+  Step 4 : Loaner laptop issued immediately while yours is repaired
+  Step 5 : Repair timeline:
+           Minor issues    : 24 hours
+           Major issues    : 3-5 working days
+           Hardware replacement : 7-10 working days
+  Step 6 : If repair exceeds 14 days → new laptop issued
+
+LAPTOP SLOW PERFORMANCE
+  Self-help steps:
+  1. Restart your laptop completely (not sleep/hibernate)
+  2. Close unused browser tabs and applications
+  3. Run Disk Cleanup: search "Disk Cleanup" in Windows Start
+  4. Check for Windows updates: Settings → Windows Update
+  5. If still slow after these steps → raise IT ticket
+
+BLUE SCREEN / SYSTEM CRASH
+  - Note the error code shown on blue screen
+  - Call IT Help Desk immediately: 1800-XXX-XXXX
+  - Do NOT restart repeatedly — wait for IT guidance
+  - IT will remotely diagnose or collect device
+
+LAPTOP OVERHEATING
+  - Place on hard flat surface — not on bed or sofa
+  - Clean air vents (can use compressed air)
+  - If fan is making noise → raise IT ticket immediately
+
+================================================================
+SECTION 3: VPN SETUP & CONNECTIVITY
+================================================================
+
+VPN SOFTWARE : Cisco AnyConnect / Palo Alto GlobalProtect
+VPN Server   : vpn.hexaware.com
+
+HOW TO CONNECT TO VPN FROM HOME
+  Step 1 : Download VPN software
+           Cisco AnyConnect: https://vpn.hexaware.com/download
+           Or from IT Help Desk Portal → Downloads
+  Step 2 : Install the software
+  Step 3 : Open application → enter server: vpn.hexaware.com
+  Step 4 : Enter your Windows username and password
+  Step 5 : Complete MFA (Microsoft Authenticator approval)
+  Step 6 : Connected — green icon shows in taskbar
+
+VPN TROUBLESHOOTING
+  Cannot connect to VPN:
+  → Check your internet connection first
+  → Ensure VPN software is latest version
+  → Try disconnecting and reconnecting
+  → Check MFA app is working on your phone
+  → If still failing: call IT Help Desk 1800-XXX-XXXX
+
+VPN DISCONNECTS FREQUENTLY:
+  → Check home internet stability
+  → Switch from WiFi to wired LAN if possible
+  → Restart VPN software
+  → Raise IT ticket if issue continues
+
+================================================================
+SECTION 4: OFFICE WIFI & NETWORK
+================================================================
+
+Office WiFi Networks:
+  HEXAWARE_SECURE  : For company laptops (use Windows credentials)
+  HEXAWARE_GUEST   : For personal devices and visitors
+                     (password available at reception, changes weekly)
+
+HOW TO CONNECT TO OFFICE WIFI
+  1. On your laptop: click WiFi icon in taskbar
+  2. Select HEXAWARE_SECURE
+  3. Enter: username@hexaware.com and Windows password
+  4. Accept certificate if prompted
+
+WIFI NOT WORKING
+  Self-help:
+  1. Forget the network and reconnect
+  2. Run Windows Network Troubleshooter
+  3. Restart laptop WiFi: Fn + WiFi key
+  4. Try another WiFi access point on different floor
+  5. If still not working → raise IT ticket
+
+================================================================
+SECTION 5: PASSWORD MANAGEMENT
+================================================================
+
+PASSWORD POLICY
+  Minimum length      : 12 characters
+  Must include        : Uppercase, lowercase, number, special character
+  Password expiry     : Every 90 days
+  Cannot reuse        : Last 10 passwords
+
+HOW TO RESET YOUR PASSWORD
+  Self-Service (recommended — available 24/7):
+  1. Go to: https://passwordreset.hexaware.com
+  2. Enter your Employee ID
+  3. Verify via Microsoft Authenticator app
+  4. Set new password
+
+  Through IT Help Desk:
+  1. Call: 1800-XXX-XXXX (identity verification required)
+  2. IT resets and provides temporary password
+  3. You must change password on first login
+
+ACCOUNT LOCKED
+  - Happens after 5 incorrect password attempts
+  - Self-unlock: https://passwordreset.hexaware.com
+  - Or call IT Help Desk: 1800-XXX-XXXX
+
+HOW TO SET UP MICROSOFT AUTHENTICATOR (MFA)
+  1. Download Microsoft Authenticator from App Store / Play Store
+  2. Go to: https://aka.ms/mysecurityinfo
+  3. Sign in with company email
+  4. Click Add Method → Authenticator App
+  5. Scan QR code shown on screen
+  6. Approve test notification
+  7. MFA setup complete
+
+================================================================
+SECTION 6: EMAIL & MICROSOFT 365
+================================================================
+
+Company Email Format: firstname.lastname@hexaware.com
+
+HOW TO SET UP OUTLOOK ON NEW DEVICE
+  1. Open Outlook
+  2. Enter your company email address
+  3. Sign in with company credentials
+  4. Approve MFA on phone
+  5. Outlook configures automatically
+
+OUTLOOK NOT SYNCING / EMAILS DELAYED
+  Self-help:
+  1. Check internet/VPN connection
+  2. Click Send/Receive All Folders (F9)
+  3. Restart Outlook
+  4. Quick Repair: Control Panel → Programs → Microsoft 365 → Quick Repair
+  5. If issue persists → raise IT ticket
+
+MICROSOFT TEAMS NOT WORKING
+  1. Sign out and sign back in
+  2. Clear Teams cache: close Teams → delete C:\Users\[name]\AppData\Roaming\Microsoft\Teams
+  3. Restart Teams
+  4. Reinstall if needed (IT Help Desk portal)
+
+MAILBOX STORAGE FULL
+  - Default mailbox size: 50 GB
+  - Archiving enabled after 30 days
+  - Request additional storage via IT portal if needed
+  - Delete or archive large attachments from Sent/Inbox
+
+================================================================
+SECTION 7: SOFTWARE & APPLICATIONS
+================================================================
+
+PRE-INSTALLED SOFTWARE ON ALL HEXAWARE LAPTOPS
+  - Windows 11 Enterprise
+  - Microsoft 365 (Word, Excel, PowerPoint, Outlook, Teams)
+  - Cisco AnyConnect VPN
+  - Microsoft Authenticator
+  - Sophos Antivirus
+  - ServiceNow (IT Portal)
+  - SAP (role-based access)
+  - Power BI Desktop
+
+HOW TO REQUEST NEW SOFTWARE INSTALLATION
+  1. IT Help Desk Portal → New Request → Software Installation
+  2. Provide: software name, version, business justification
+  3. IT Manager reviews within 3 working days
+  4. Approved software installed remotely by IT
+  5. Unlicensed or unapproved software not permitted
+
+APPROVED SELF-INSTALL SOFTWARE
+  - Google Chrome, Mozilla Firefox
+  - Zoom, Webex
+  - Adobe Reader DC
+  - 7-Zip, Notepad++
+  - VS Code (developers only)
+
+================================================================
+SECTION 8: PRINTER SETUP & ISSUES
+================================================================
+
+HOW TO CONNECT TO OFFICE PRINTER
+  1. Open Settings → Bluetooth & Devices → Printers & Scanners
+  2. Click Add Device
+  3. Select your floor printer (e.g., PRINTER-FL3-A)
+  4. Driver installs automatically
+  5. Print test page to confirm
+
+PRINTER NOT WORKING
+  Self-help:
+  1. Check printer is powered on and has paper
+  2. Check printer display for error message
+  3. Cancel all print jobs in queue (Settings → Printers → Open Queue → Cancel All)
+  4. Restart printer using power button
+  5. Reconnect to printer on laptop
+  6. If still not working → raise IT ticket (toner/hardware issue)
+
+================================================================
+SECTION 9: DATA BACKUP & RECOVERY
+================================================================
+
+  - All company data must be stored on OneDrive or SharePoint
+  - Local laptop storage is NOT backed up — do NOT store important files only on C: drive
+  - OneDrive auto-syncs all files in real time
+  - Deleted files recoverable from OneDrive Recycle Bin for 90 days
+
+HOW TO RECOVER DELETED FILE
+  1. Go to: https://hexaware.sharepoint.com
+  2. Open OneDrive → Recycle Bin
+  3. Find deleted file → Restore
+  4. For files deleted more than 90 days ago → raise IT ticket (backup restore)
+
+================================================================
+SECTION 10: IT SECURITY & COMPLIANCE
+================================================================
+
+  - Lock screen when away from desk: Windows key + L
+  - Never leave laptop unattended in public places
+  - Do not connect personal USB drives without IT approval
+  - Do not install browser extensions without IT approval
+  - Report phishing emails to: security@hexaware.com
+  - Do not share passwords with anyone including IT staff
+  - Company data must NOT be stored on personal devices
+
+DEVICE RETURN ON RESIGNATION
+  Last working day (before 12:00 PM):
+  - Return laptop + charger + docking station + mouse
+  - Return access card and SIM card (if issued)
+  - IT will wipe device and disable all accounts
+  - Failure to return: cost deducted from Full and Final Settlement
+
+================================================================
+SECTION 11: NEW EMPLOYEE IT ONBOARDING
+================================================================
+
+DAY 1 CHECKLIST FOR NEW JOINERS
+  ✓ Collect laptop from IT Desk (Ground Floor, Building A)
+  ✓ Set up Windows login with Employee ID and temporary password
+  ✓ Change password immediately on first login
+  ✓ Set up Microsoft Authenticator (MFA)
+  ✓ Set up Outlook with company email
+  ✓ Join Microsoft Teams and company channels
+  ✓ Connect to HEXAWARE_SECURE WiFi
+  ✓ Download and configure VPN (for WFH access)
+  ✓ Log into HR Portal and IT Portal
+
+================================================================
+SECTION 12: IT FAQs
+================================================================
+
+Q: How do I raise an IT support ticket?
+A: Go to https://itsm.hexaware.com → New Ticket → fill details → submit.
+   You will receive email confirmation with ticket ID.
+
+Q: How do I connect to VPN from home?
+A: Download Cisco AnyConnect from https://vpn.hexaware.com/download.
+   Enter server vpn.hexaware.com, login with company credentials, approve MFA.
+
+Q: How do I reset my password?
+A: Self-service at https://passwordreset.hexaware.com using MFA verification.
+   Or call IT Help Desk: 1800-XXX-XXXX.
+
+Q: My laptop is slow. What should I do?
+A: Restart laptop, close unused apps, run Disk Cleanup.
+   If still slow after these steps, raise an IT ticket.
+
+Q: How do I connect to the office WiFi?
+A: Select HEXAWARE_SECURE → enter username@hexaware.com and Windows password.
+
+Q: How do I set up MFA on my new phone?
+A: Download Microsoft Authenticator → go to https://aka.ms/mysecurityinfo
+   → Add Method → Authenticator App → scan QR code.
+
+Q: My account is locked. How do I unlock it?
+A: Go to https://passwordreset.hexaware.com or call IT Help Desk 1800-XXX-XXXX.
+
+Q: What software comes pre-installed on my laptop?
+A: Windows 11, Microsoft 365, VPN, Antivirus, Teams, SAP, Power BI.
+
+Q: How do I request software that is not installed?
+A: IT Help Desk Portal → New Request → Software Installation → provide justification.
+
+Q: I accidentally deleted an important file. Can I recover it?
+A: Go to OneDrive → Recycle Bin → Restore. Files recoverable up to 90 days.
+
+================================================================
+SECTION 13: IT CONTACT DIRECTORY
+================================================================
+
+IT Help Desk        : it-support@hexaware.com
+IT Portal           : https://itsm.hexaware.com
+Phone (24/7)        : 1800-XXX-XXXX
+Security Issues     : security@hexaware.com
+Password Reset      : https://passwordreset.hexaware.com
+VPN Download        : https://vpn.hexaware.com/download
+Walk-in             : Ground Floor, Building A (09:00–18:00, Mon–Sat)
+================================================================
