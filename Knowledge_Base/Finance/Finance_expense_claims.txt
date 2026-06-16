@@ -1,0 +1,230 @@
+================================================================
+HEXAWARE TECHNOLOGIES — FINANCE: EXPENSE CLAIMS & REIMBURSEMENTS
+KNOWLEDGE BASE 2025
+================================================================
+
+SECTION 1: EXPENSE REIMBURSEMENT — OVERVIEW
+
+Finance Help Desk    : https://financeportal.hexaware.com
+Reimbursements Email : claims@hexaware.com
+Working Hours        : Monday – Friday, 9:00 AM – 6:00 PM IST
+
+Service Level Targets:
+  Reimbursement query    : Response 4 hours / Resolution 3-5 business days
+  Reimbursement payment  : 10 business days after Finance approval
+  Rejected claim query   : Response 2 hours
+
+================================================================
+SECTION 2: ELIGIBLE EXPENSES
+================================================================
+
+Employees can claim reimbursement for:
+  ✓ Business travel (flights, trains, cabs — economy class)
+  ✓ Client entertainment meals (with business justification)
+  ✓ Hotel stays (within approved grade limits)
+  ✓ Official mobile and internet bills (WFH employees)
+  ✓ Parking fees during official travel
+  ✓ Office supplies purchased for official use
+  ✓ Certification and training fees (pre-approved only)
+  ✓ Medical expenses (as per insurance limits)
+
+NON-REIMBURSABLE EXPENSES
+  ✗ Alcohol or personal entertainment
+  ✗ Personal travel or tourism
+  ✗ Fines, penalties, or traffic challans
+  ✗ Unapproved software or subscriptions
+  ✗ Expenses without valid bills or invoices
+  ✗ Claims submitted after 30-day deadline
+  ✗ Unapproved flight upgrades
+
+================================================================
+SECTION 3: HOW TO SUBMIT AN EXPENSE CLAIM
+================================================================
+
+STEP BY STEP PROCESS
+  Step 1 : Collect all original bills and digital invoices
+  Step 2 : Login to Finance Portal: https://financeportal.hexaware.com
+  Step 3 : Go to Claims → New Expense Claim
+  Step 4 : Fill in: date, category, amount, description, project code
+  Step 5 : Upload bill (PDF format, maximum 5 MB per file)
+  Step 6 : Click Submit for Manager Approval
+  Step 7 : Manager approves within 2 working days
+  Step 8 : Finance reviews and processes within 3 working days
+  Step 9 : Payment credited to salary account within 10 business days
+
+CLAIM SUBMISSION RULES
+  - All claims must be submitted within 30 days of expense date
+  - Claims older than 30 days will be REJECTED without exception
+  - Bills must be in employee's name or company name
+  - Duplicate claims (same bill twice) are flagged and reported to HR
+  - False or inflated claims result in disciplinary action
+
+================================================================
+SECTION 4: REIMBURSEMENT LIMITS BY GRADE
+================================================================
+
+DOMESTIC TRAVEL LIMITS
+Category              : Junior (G1-3)  | Senior (G4-6)  | Manager+ (G7+)
+Meal per day          : INR 600        | INR 800         | INR 1,200
+Hotel per night       : INR 2,500      | INR 3,500       | INR 6,000
+Client entertainment  : INR 2,000      | INR 5,000       | INR 15,000
+
+INTERNATIONAL TRAVEL LIMITS
+Category              : Junior (G1-3)  | Senior (G4-6)  | Manager+ (G7+)
+Meal per day          : INR 2,500      | INR 3,500       | INR 5,000
+Hotel per night       : INR 8,000      | INR 12,000      | INR 18,000
+
+================================================================
+SECTION 5: TRAVEL POLICY
+================================================================
+
+DOMESTIC TRAVEL
+  - All domestic travel must be booked via company Travel Desk
+  - Travel Portal: https://travel.hexaware.com
+  - Book minimum 3 days in advance for best fares
+  - Booking within 24 hours requires manager + Finance approval
+  - Flight: Economy class only (all grades)
+  - Train: 3AC or above
+  - Local cab: Ola/Uber app-generated bills accepted
+
+INTERNATIONAL TRAVEL
+  - Requires pre-approval: Department Head + HR + CFO
+  - Submit International Travel Request on Finance Portal minimum 7 days in advance
+  - Visa and travel insurance arranged by company Travel Desk
+
+  Per Diem Rates 2025:
+  USA              : USD 180/day
+  Europe           : EUR 150/day
+  Singapore        : SGD 280/day
+  Japan            : JPY 18,000/day
+  China            : CNY 1,200/day
+  Middle East      : USD 120/day
+  Southeast Asia   : USD 100/day
+
+  Flight class:
+  - Less than 6 hours     : Economy class (all grades)
+  - 6 hours or more       : Business class (Manager grade and above only)
+
+TRAVEL ADVANCE
+  - Available for domestic and international trips
+  - Request via Finance Portal → Travel Advance → submit with trip details
+  - Requires manager + Finance approval
+  - Must be settled within 10 days of trip completion
+  - Unused advance must be returned immediately
+
+TRAVEL EXPENSE SETTLEMENT DOCUMENTS
+  Required after travel:
+  ✓ Boarding passes (both directions)
+  ✓ Hotel invoice with GST number
+  ✓ Cab and taxi receipts
+  ✓ Meal receipts above INR 500
+  Submit via Finance Portal within 10 days of return
+
+================================================================
+SECTION 6: EXPENSE APPROVAL MATRIX
+================================================================
+
+Expense Amount                 : Approver
+Up to INR 50,000               : Department Head
+INR 50,001 – 2,50,000          : Department Head + Finance Manager
+INR 2,50,001 – 10,00,000       : CFO
+INR 10,00,001 – 50,00,000      : CEO + CFO
+Above INR 50,00,000            : Board of Directors
+
+================================================================
+SECTION 7: MEDICAL INSURANCE CLAIMS
+================================================================
+
+Coverage Summary:
+  Family Floater     : INR 5,00,000 per year (employee + spouse + 2 children)
+  OPD                : INR 2,500 per visit, max INR 65,000 per year
+  IPD                : Up to INR 5,00,000 per year
+  Dental             : INR 15,000 per year
+  Optical            : INR 6,000 every 2 years
+  Life Insurance     : 60x monthly Basic Salary
+
+Cashless Hospitalization (network hospital):
+  1. Show insurance e-card at hospital
+     (Finance Portal → Insurance → E-card → Download)
+  2. Hospital processes cashless directly with TPA
+  3. No out-of-pocket payment required
+
+Reimbursement (non-network hospital):
+  1. Pay hospital bills
+  2. Collect original bills, discharge summary, prescription
+  3. Finance Portal → Claims → Medical Reimbursement
+  4. Submit within 30 days of discharge
+  5. Processing time: 15-21 working days
+
+================================================================
+SECTION 8: COMMUNICATION ALLOWANCE CLAIM
+================================================================
+
+Eligible: Grade 5 and above employees
+Amount  : Up to INR 1,200 per month
+
+How to claim:
+  1. Submit mobile or internet bill (original or digital copy)
+  2. Finance Portal → Claims → Communication Allowance
+  3. Submit by 20th of each month for same-month processing
+  4. Bills older than 60 days will not be accepted
+
+================================================================
+SECTION 9: EXPENSE CLAIMS FAQs
+================================================================
+
+Q: How do I submit an expense claim?
+A: Finance Portal → Claims → New Expense Claim.
+   Fill in date, category, amount, description.
+   Upload bills in PDF format, then submit for manager approval.
+   Claims must be submitted within 30 days of expense date.
+
+Q: How do I submit an expense reimbursement?
+A: Login to https://financeportal.hexaware.com
+   Go to Claims → New Expense Claim → fill details → upload bills → submit.
+   Payment credited within 10 business days after Finance approval.
+
+Q: How long does reimbursement take?
+A: Finance reviews within 3 working days of manager approval.
+   Payment credited within 10 business days of Finance approval.
+
+Q: My reimbursement claim was rejected. What do I do?
+A: Check rejection reason in your email or Finance Portal → My Claims.
+   Correct the issue and resubmit, or email claims@hexaware.com.
+
+Q: I lost my travel bill. Can I still claim?
+A: Contact your manager for a declaration note.
+   Finance reviews on a case-by-case basis. Original bills strongly preferred.
+
+Q: What expenses are NOT reimbursable?
+A: Alcohol, personal travel, fines, expenses without bills,
+   and any claim submitted after 30 days of expense date.
+
+Q: Can I use Ola or Uber for official travel?
+A: Yes. Ola and Uber app-generated bills are accepted.
+   Attach PDF receipt from the app when submitting claim.
+
+Q: What is the hotel limit for domestic travel?
+A: Junior: INR 2,500/night | Senior: INR 3,500/night | Manager+: INR 6,000/night
+
+Q: How do I check my claim status?
+A: Finance Portal → My Claims → view current status of all submitted claims.
+
+Q: How do I get reimbursed for my internet bill while working from home?
+A: Finance Portal → Claims → Communication Allowance.
+   Upload bill, submit by 20th of each month. Maximum INR 1,200 per month.
+
+================================================================
+SECTION 10: FINANCE CONTACT DIRECTORY
+================================================================
+
+Expense Reimbursements  : claims@hexaware.com
+General Finance Queries : finance@hexaware.com
+Payroll & Salary        : payroll@hexaware.com
+Tax & Form 16           : tax@hexaware.com
+Vendor Payments         : vendor@hexaware.com
+Compliance Reporting    : compliance@hexaware.com (confidential)
+Finance Portal          : https://financeportal.hexaware.com
+Emergency Hotline       : 1800-XXX-XXXX
+Working Hours           : Monday – Friday, 9:00 AM – 6:00 PM IST
+================================================================
