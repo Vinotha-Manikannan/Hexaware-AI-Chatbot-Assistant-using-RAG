@@ -1,0 +1,15 @@
+{
+  "IT-681F86F0": {
+    "ticket_id": "IT-681F86F0",
+    "issue": "My laptop is overheating",
+    "category": "IT",
+    "status": "Open",
+    "priority": "High",
+    "employee_name": "vinotha",
+    "employee_id": "emp - 111",
+    "department": "IT",
+    "created_at": "2026-06-03 15:08:50",
+    "updated_at": "2026-06-03 15:08:50",
+    "session_id": "default"
+  }
+}

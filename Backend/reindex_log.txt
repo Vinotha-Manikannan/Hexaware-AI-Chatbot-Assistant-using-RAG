@@ -1,0 +1,476 @@
+Model fetching .....
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|##########| 103/103 [00:00<00:00, 5839.67it/s]
+Loaded model from local cache
+Model fetching Done.....
+Deleted: Finance_datas
+Deleted: IT_datas
+Deleted: Company_datas
+Deleted: HR_datas
+Deleted: General_datas
+Chunking data....
+Chunks done.... Total chunks: 32
+Embedding Chunk 1/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 2/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 3/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 4/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 5/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 6/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 7/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 8/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 9/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 10/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 11/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 12/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 13/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 14/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 15/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 16/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 17/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 18/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 19/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 20/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 21/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 22/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 23/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 24/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 25/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 26/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 27/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 28/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 29/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 30/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 31/32
+Embeddings Begins
+Embeddings End
+Embedding Chunk 32/32
+Embeddings Begins
+Embeddings End
+Collection : Finance_datas
+Documents  : 32
+Embeddings : 32
+  Stored batch 1 (32/32 chunks)
+Successfully added all chunks to 'Finance_datas'
+Finance_datas DONE PROCESS....!!!
+Chunking data....
+Chunks done.... Total chunks: 33
+Embedding Chunk 1/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 2/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 3/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 4/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 5/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 6/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 7/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 8/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 9/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 10/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 11/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 12/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 13/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 14/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 15/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 16/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 17/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 18/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 19/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 20/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 21/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 22/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 23/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 24/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 25/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 26/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 27/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 28/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 29/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 30/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 31/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 32/33
+Embeddings Begins
+Embeddings End
+Embedding Chunk 33/33
+Embeddings Begins
+Embeddings End
+Collection : IT_datas
+Documents  : 33
+Embeddings : 33
+  Stored batch 1 (33/33 chunks)
+Successfully added all chunks to 'IT_datas'
+IT_datas DONE PROCESS....!!!
+Chunking data....
+Chunks done.... Total chunks: 21
+Embedding Chunk 1/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 2/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 3/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 4/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 5/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 6/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 7/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 8/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 9/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 10/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 11/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 12/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 13/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 14/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 15/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 16/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 17/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 18/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 19/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 20/21
+Embeddings Begins
+Embeddings End
+Embedding Chunk 21/21
+Embeddings Begins
+Embeddings End
+Collection : Company_datas
+Documents  : 21
+Embeddings : 21
+  Stored batch 1 (21/21 chunks)
+Successfully added all chunks to 'Company_datas'
+Company_datas DONE PROCESS....!!!
+Chunking data....
+Chunks done.... Total chunks: 30
+Embedding Chunk 1/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 2/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 3/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 4/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 5/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 6/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 7/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 8/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 9/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 10/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 11/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 12/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 13/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 14/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 15/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 16/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 17/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 18/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 19/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 20/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 21/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 22/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 23/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 24/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 25/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 26/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 27/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 28/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 29/30
+Embeddings Begins
+Embeddings End
+Embedding Chunk 30/30
+Embeddings Begins
+Embeddings End
+Collection : HR_datas
+Documents  : 30
+Embeddings : 30
+  Stored batch 1 (30/30 chunks)
+Successfully added all chunks to 'HR_datas'
+HR_datas DONE PROCESS....!!!
+Chunking data....
+Chunks done.... Total chunks: 26
+Embedding Chunk 1/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 2/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 3/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 4/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 5/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 6/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 7/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 8/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 9/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 10/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 11/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 12/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 13/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 14/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 15/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 16/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 17/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 18/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 19/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 20/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 21/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 22/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 23/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 24/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 25/26
+Embeddings Begins
+Embeddings End
+Embedding Chunk 26/26
+Embeddings Begins
+Embeddings End
+Collection : General_datas
+Documents  : 26
+Embeddings : 26
+  Stored batch 1 (26/26 chunks)
+Successfully added all chunks to 'General_datas'
+General_datas DONE PROCESS....!!!
+Done!
