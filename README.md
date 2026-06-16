@@ -97,7 +97,7 @@ Response + Related Suggestions
 
 ## 👤 Author
 
-Built by **Vinotha** as part of Hexaware Technologies internship.
+Built by Vinotha
 
 ---
 
