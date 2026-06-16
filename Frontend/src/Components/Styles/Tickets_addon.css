@@ -1,0 +1,302 @@
+/* ==========================================
+   Admin Tabs
+   ========================================== */
+
+.admin-tabs {
+  display: flex;
+  gap: 4px;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface);
+  flex-shrink: 0;
+}
+
+.admin-tab-btn {
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  border: none;
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+  margin-bottom: -1px;
+}
+
+.admin-tab-btn:hover {
+  color: var(--color-text);
+}
+
+.admin-tab-btn.active {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+}
+
+/* ==========================================
+   Tickets Container
+   ========================================== */
+
+.tickets-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 20px 24px;
+  gap: 14px;
+  min-height: 0;
+}
+
+.tickets-header {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.tickets-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tickets-title-row h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+/* ==========================================
+   Filter Buttons
+   ========================================== */
+
+.ticket-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.filter-btn:hover {
+  background: rgba(var(--color-teal-500-rgb), 0.08);
+  color: var(--color-text);
+}
+
+.filter-btn.active {
+  background: rgba(var(--color-teal-500-rgb), 0.12);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.filter-count {
+  background: rgba(0, 0, 0, 0.08);
+  padding: 1px 7px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+/* ==========================================
+   Table Wrapper — scrolls independently
+   ========================================== */
+
+.tickets-table-wrapper {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: auto;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  min-height: 0;
+}
+
+/* ==========================================
+   Table
+   ========================================== */
+
+.tickets-table {
+  width: max-content;     /* shrinks to fit content, no overflow clipping */
+  min-width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.tickets-table thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--color-surface);
+}
+
+.tickets-table th {
+  padding: 11px 14px;
+  text-align: left;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  border-bottom: 1px solid var(--color-border);
+  white-space: nowrap;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.tickets-table td {
+  padding: 11px 14px;
+  border-bottom: 1px solid var(--color-card-border);
+  color: var(--color-text);
+  vertical-align: middle;
+}
+
+.tickets-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.ticket-row:hover td {
+  background: rgba(var(--color-teal-500-rgb), 0.04);
+}
+
+/* ==========================================
+   Cell content
+   ========================================== */
+
+.ticket-id {
+  font-family: monospace;
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.06);
+  padding: 2px 7px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.ticket-issue-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+}
+
+.ticket-category {
+  padding: 3px 10px;
+  background: rgba(var(--color-teal-500-rgb), 0.1);
+  color: var(--color-primary);
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.ticket-date {
+  white-space: nowrap;
+  color: var(--color-text-secondary);
+  font-size: 12px;
+}
+
+/* ==========================================
+   Actions column — stacked dropdowns
+   ========================================== */
+
+.ticket-actions {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+.action-group {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.action-label {
+  font-size: 10px;
+  color: var(--color-text-secondary);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding-left: 2px;
+}
+
+.status-select {
+  padding: 4px 6px;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  font-size: 12px;
+  background: var(--color-background);
+  color: var(--color-text);
+  cursor: pointer;
+  min-width: 80px;
+}
+
+.status-select:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+/* ==========================================
+   Expanded row
+   ========================================== */
+
+.ticket-expanded-row td {
+  background: rgba(var(--color-teal-500-rgb), 0.04);
+  padding: 0;
+}
+
+.ticket-expanded-content {
+  padding: 12px 16px;
+  font-size: 13px;
+  color: var(--color-text);
+  border-top: 1px dashed var(--color-border);
+}
+
+.ticket-expanded-content strong {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--color-text-secondary);
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.ticket-expanded-content p {
+  line-height: 1.5;
+  word-break: break-word;
+}
+
+/* ==========================================
+   Empty / Loading states
+   ========================================== */
+
+.no-tickets {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-text-secondary);
+  padding: 48px;
+  gap: 8px;
+}
+
+.tickets-loading {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  color: var(--color-text-secondary);
+}
